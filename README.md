@@ -1,3 +1,5 @@
+AI photo, video Upscaler + denoiser
+
 How to setup:
 It works only in MacOS(maybe in linux too)
 
